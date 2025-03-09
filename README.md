@@ -23,6 +23,5 @@ El programa permite gestionar sorteos de Amigos Secretos, asignando aleatoriamen
 
 1. Abre el archivo `index.html` en tu navegador web.  
 2. Sigue las instrucciones en pantalla para agregar a los participantes y realizar el sorteo.  
-
 ---
 
