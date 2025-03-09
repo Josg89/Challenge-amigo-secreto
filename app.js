@@ -1,13 +1,13 @@
 // El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
 // Variables 
 let amigo = [];
-let lista = obtenerDatoId("listaAmigos");
-let resultado = obtenerDatoId("resultado");
+let lista = obtenerId("listaAmigos");
+let resultado = obtenerId("resultado");
 
 function obtenerDatoPorId(id) {
     return document.getElementById(id).value
 }
-function obtenerDatoId(id) {
+function obtenerId(id) {
     return document.getElementById(id)
 }
 

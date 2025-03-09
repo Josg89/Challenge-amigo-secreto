@@ -1,10 +1,10 @@
 # Challenge Amigo Secreto 
 
-Este es un proyecto para organizar un **Amigo Secreto** de manera sencilla y rápida.  
+Este es un proyecto para organizar un **Amigo Secreto** .  
 
 ##  Descripción  
 
-El programa permite gestionar sorteos de Amigo Secreto, asignando aleatoriamente a cada participante la persona a la que deberá hacer un regalo.  
+El programa permite gestionar sorteos de Amigos Secretos, asignando aleatoriamente a cada participante la persona a la que deberá hacer un regalo.  
 
 **[Vista previa del proyecto](https://josg89.github.io/Challenge-amigo-secreto/)**  
  
@@ -22,7 +22,7 @@ El programa permite gestionar sorteos de Amigo Secreto, asignando aleatoriamente
 ##  Uso  
 
 1. Abre el archivo `index.html` en tu navegador web.  
-2. Sigue las instrucciones en pantalla para agregar participantes y realizar el sorteo.  
+2. Sigue las instrucciones en pantalla para agregar a los participantes y realizar el sorteo.  
 
 ---
 
