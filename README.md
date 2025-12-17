@@ -1,6 +1,6 @@
 # Sorteo Amigo Secreto 
 
-Este es una pagina que te ayuda a para organizar un **Amigo Secreto** .  
+Este es una pagina que te ayuda a organizar un **Amigo Secreto** .  
 
 ##  Descripción  
 
