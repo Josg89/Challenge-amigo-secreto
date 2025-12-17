@@ -1,6 +1,6 @@
-# Challenge Amigo Secreto 
+# Sorteo Amigo Secreto 
 
-Este es un proyecto para organizar un **Amigo Secreto** .  
+Este es una pagina que te ayuda a para organizar un **Amigo Secreto** .  
 
 ##  Descripción  
 
