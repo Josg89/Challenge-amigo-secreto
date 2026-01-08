@@ -6,7 +6,7 @@ Este es una pagina que te ayuda a organizar un **Amigo Secreto** .
 
 El programa permite gestionar sorteos de Amigos Secretos, asignando aleatoriamente a cada participante la persona a la que deberá hacer un regalo.  
 
-**[Vista previa de la pagina](https://josg89.github.io/Challenge-amigo-secreto/)**  
+**[Vista previa de la pagina](https://josg89.github.io/amigo-secreto/)**  
  
 ##  Instalación  
 
