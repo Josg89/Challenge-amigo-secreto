@@ -12,7 +12,7 @@ El programa permite gestionar sorteos de Amigos Secretos, asignando aleatoriamen
 
 1. Clona el repositorio en tu computadora:  
    ```bash
-   git clone https://github.com/Josg89/Challenge-amigo-secreto.git
+   git clone https://github.com/Josg89/amigo-secreto.git
    ```
 2. Accede a la carpeta del proyecto:  
    ```bash
